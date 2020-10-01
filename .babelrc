@@ -7,15 +7,15 @@
         "root": "./app",
         "extentions": [".js", ".ios.js", ".android.js"],
         "alias": {
-          "_assets": "./app/assets",
-          "_components": "./app/components",
-          "_api": "./app/api",
-          "_config": "./app/config",
-          "_navigations": "./app/navigations",
-          "_utils": "./app/utils",
-          "_styles": "./app/styles",
-          "_store": "./app/store",
-          "_features": "./app/features"
+          "_assets/": "./app/assets",
+          "_components/": "./app/components",
+          "_api/": "./app/api",
+          "_config/": "./app/config",
+          "_navigations/": "./app/navigations",
+          "_utils/": "./app/utils",
+          "_styles/": "./app/styles",
+          "_store/": "./app/store",
+          "_features/": "./app/features"
         }
       }
     ]
